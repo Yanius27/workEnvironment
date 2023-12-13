@@ -1,4 +1,5 @@
-![CI](https://github.com/<Yanius27>/<workEnvironment>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/<YANIUS27>/<WORKENVIRONMENT>/actions/workflows/web.yml/badge.svg)
+
 # Webpack5
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
